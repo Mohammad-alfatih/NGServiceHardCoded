@@ -1,7 +1,7 @@
 {
-  "name": "angular-quickstart",
+  "name": "ng-service-hard-coded",
   "version": "1.0.0",
-  "description": "QuickStart package.json from the documentation, supplemented with testing support",
+  "description": "A simple example of how to work with services in Angular 2 using hard coded data.",
   "scripts": {
     "build": "tsc -p src/",
     "build:watch": "tsc -p src/ -w",
